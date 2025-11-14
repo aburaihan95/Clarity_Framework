@@ -1,0 +1,26 @@
+<<MODE_E_PORTABLE_SPEC>>
+
+CLARITY FRAMEWORK v1.0 — PORTABLE SPECIFICATION
+
+Purpose:
+A universal output labeling system allowing any AI system to classify its output by intent, usage category, and execution safety.
+
+Modes:
+A = Execution-ready implementation output  
+B = Human-readable explanation/guidance  
+C = Draft / exploratory / incomplete  
+E = External portable specification
+
+Requirements:
+- Every output MUST begin with one mode tag.
+- No mixing of modes inside a single block.
+- Execution-ready content (Mode A) must not contain narrative commentary.
+- Mode E outputs must be neutral, cross-platform, and tool-agnostic.
+
+Mode Tags:
+<<MODE_A_EXECUTION_READY>>
+<<MODE_B_HUMAN_GUIDANCE>>
+<<MODE_C_DRAFT>>
+<<MODE_E_PORTABLE_SPEC>>
+
+End of Specification.
