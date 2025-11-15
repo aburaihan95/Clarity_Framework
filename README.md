@@ -1,5 +1,5 @@
 # THE CLARITY FRAMEWORK v1.0  
-### A Universal Protocol for AI Output Classification & Intent Signaling  
+### A simple, universal system that labels ai responses so anyone can instantly tell what the output is and how it’s meant to be used.  
 **By: Aaron J. Landry**
 
 ---
